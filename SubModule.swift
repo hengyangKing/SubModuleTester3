@@ -7,5 +7,5 @@
 
 import Foundation
 class Module {
-    var name: String = "Test pull code recursive synchronization"
+    var name: String = "Test pull code recursive synchronization 2"
 }
