@@ -7,5 +7,5 @@
 
 import Foundation
 class Module {
-    var name: String = "Synchronous test pre-push 6"
+    var name: String = "overall process test 2"
 }
