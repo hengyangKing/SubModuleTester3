@@ -1,1 +1,1 @@
-test pre-push 3
+post-commit 1
