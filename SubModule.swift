@@ -7,5 +7,5 @@
 
 import Foundation
 class Module {
-    var name: String = "overall process test 2"
+    var name: String = "test loop 1"
 }
