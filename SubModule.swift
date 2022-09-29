@@ -7,5 +7,5 @@
 
 import Foundation
 class Module {
-    var name: String = "At this time, the sub database iteration has been added"
+    var name: String = "Test pull code recursive synchronization"
 }
